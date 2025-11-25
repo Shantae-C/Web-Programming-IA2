@@ -155,7 +155,7 @@ function checkoutSubmit() {
 
   alert('Thank you! Your order has been placed.');
   clearCart();
-  window.location.href = 'index.html';
+  window.location.href = '../index.html';
 }
 
 /*Login and registeration validation */
@@ -175,7 +175,7 @@ function validateLoginForm() {
   }
 
   alert('Login successful!');
-  window.location.href = 'index.html';
+  window.location.href = '../index.html';
 }
 
 //IA#2 vaidateRegisterForm() valids registeration fields and shows message.
@@ -251,4 +251,5 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 });
+
 
