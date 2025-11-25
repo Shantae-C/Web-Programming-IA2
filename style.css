@@ -197,7 +197,7 @@ img {
 }
 
 #page-header {
-    background-image: url("assets/header.png");
+    background-image: url("Assets/header.png");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -624,5 +624,6 @@ button:hover {
     width: 100%;                  
   }
 }
+
 
 
