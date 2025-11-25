@@ -137,7 +137,9 @@ img {
     margin-right: 10px;
     border-radius: 100%;
 }
-
+body.codes #page-header {
+    background-image: url("../Assets/header.png");
+}
 #navbar{
     display: flex;
     align-items: center;
@@ -624,6 +626,7 @@ button:hover {
     width: 100%;                  
   }
 }
+
 
 
 
