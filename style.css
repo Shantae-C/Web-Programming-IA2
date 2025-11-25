@@ -177,7 +177,7 @@ body.codes #page-header {
 }
 
 #hero{
-    background-image: url("assets/hero4.png");
+    background-image: url("Assets/hero4.png");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -626,6 +626,7 @@ button:hover {
     width: 100%;                  
   }
 }
+
 
 
 
